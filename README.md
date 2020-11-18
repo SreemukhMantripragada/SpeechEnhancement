@@ -3,8 +3,8 @@
 #### The following project is an approach to remove noise from common audio like phone call recordings.
 
 ##### Each phase of the project is present in the following files:
-Data processing : Data Processing.ipynb   
-Model building and testin : .ipynb
+Data processing : [https://github.com/SreemukhMantripragada/SpeechEnhancement/blob/main/Data%20Processing.ipynb]  
+Model building and testing : .ipynb
 
 
 The model can be tried on personal audio clips @ Try.ipynb
