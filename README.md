@@ -4,7 +4,7 @@
 
 ##### Each phase of the project is present in the following files:
 Data processing : [Notebook](https://github.com/SreemukhMantripragada/SpeechEnhancement/blob/main/Data%20Processing.ipynb)  
-Model building and testing : .ipynb
+Model building and testing : [Notebook](https://github.com/SreemukhMantripragada/SpeechEnhancement/blob/main/Model%20training%20and%20testing%20.ipynb)
 
 
 The model can be tried on personal audio clips @ Try.ipynb  
